@@ -111,3 +111,13 @@
   width: 11px;
   height: 11px;
 }
+
+/* PAGE NUMBERS */
+
+.page-number-container {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 5px;
+  cursor: pointer;
+}
